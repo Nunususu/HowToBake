@@ -19,6 +19,9 @@ h2{
   font-family: 'Montserrat', sans-serif;
   Color: #4d0026;
 padding-left: 30;
+padding-right: 30;
+padding-top: 10;
+padding-bottom: 10
 }
 
 nav{
