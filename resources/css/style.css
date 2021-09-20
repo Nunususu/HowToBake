@@ -5,10 +5,7 @@
 p {
   font-size: 150%;
 font-family: 'Montserrat', sans-serif;
-padding-top: 10;
-padding-bottom: 10;
-padding-left: 40;
-padding-right: 20;
+
 
 color:  #3d0066;
 }
@@ -31,7 +28,10 @@ nav{
 }
 ul{
 background-color: #cdafdb;
-
+padding-top: 10;
+padding-bottom: 10;
+padding-left: 40;
+padding-right: 20;
 
 }
 ol{
